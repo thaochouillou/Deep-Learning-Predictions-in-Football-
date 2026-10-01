@@ -17,11 +17,3 @@ The objective of the model is to classify players into one of **4 specific posit
 * **Pandas & NumPy** (Data Processing & Manipulation)
 * **Matplotlib & Seaborn** (Data Visualization)
 * **Scikit-learn** (Data Preprocessing & Evaluation Metrics)
-
-## Project Structure
-```text
-├── data/                   # Dataset files (CSV, etc.)
-├── notebooks/              # Jupyter notebooks for EDA and model training
-├── src/                    # Source code for data processing and model building
-├── requirements.txt        # Python dependencies
-└── README.md               # Project documentation

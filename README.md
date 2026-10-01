@@ -1,9 +1,12 @@
-# Football Player Position Classification 
+# Football Player Position Classification ⚽️
 
 ## Overview
 This project analyzes football player statistics to predict their position on the field. It features data processing, exploratory data analysis (EDA) with visualizations, and the construction of an Artificial Neural Network (Multi-Layer Perceptron) using TensorFlow. 
 
 The objective of the model is to classify players into one of **4 specific positions** based on their performance metrics and attributes.
+
+## Presentation
+* **[View Project Presentation](Diapo Soutenance.pdt)** *(Slides, PDF, or video walkthrough)*
 
 ## Features
 * **Data Processing:** Cleaning, normalizing, and preparing player statistics for machine learning.
@@ -17,3 +20,11 @@ The objective of the model is to classify players into one of **4 specific posit
 * **Pandas & NumPy** (Data Processing & Manipulation)
 * **Matplotlib & Seaborn** (Data Visualization)
 * **Scikit-learn** (Data Preprocessing & Evaluation Metrics)
+
+## Project Structure
+```text
+├── data/                   # Dataset files (CSV, etc.)
+├── notebooks/              # Jupyter notebooks for EDA and model training
+├── src/                    # Source code for data processing and model building
+├── requirements.txt        # Python dependencies
+└── README.md               # Project documentation

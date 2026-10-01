@@ -6,7 +6,7 @@ This project analyzes football player statistics to predict their position on th
 The objective of the model is to classify players into one of **4 specific positions** based on their performance metrics and attributes.
 
 ## Presentation
-* **[View Project Presentation](Diapo Soutenance.pdt)** *(Slides, PDF, or video walkthrough)*
+* **[View Project Presentation](Diapo Soutenance.pdf)** *(Slides, PDF, or video walkthrough)*
 
 ## Features
 * **Data Processing:** Cleaning, normalizing, and preparing player statistics for machine learning.
